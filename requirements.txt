@@ -1,0 +1,20 @@
+HARDWARE
+
+Arduino Uno
+Bluetooth module(HC05)
+DC to DC buck converter
+Motor Driver(IBT-2)
+Relay module
+DC pump
+Servo motor(MG996R)
+DC Motor
+Battery(12 V, 7A)
+Wheels
+
+
+SOFTWARE
+Python ( v-3.6.5)
+Android studio ( v-4.1.3)
+Java
+Arduino IDE (v-1.8.13)
+Google Collab
