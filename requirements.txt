@@ -10,6 +10,7 @@ Servo motor(MG996R)
 DC Motor
 Battery(12 V, 7A)
 Wheels
+ESP32 Camera module
 
 
 SOFTWARE
@@ -17,4 +18,4 @@ Python ( v-3.6.5)
 Android studio ( v-4.1.3)
 Java
 Arduino IDE (v-1.8.13)
-Google Collab
+
